@@ -1,15 +1,15 @@
 // 자동 생성 파일(scripts/build-web-app.mjs). 직접 고치지 마세요.
-const VERSION = "a25afab34f17";
+const VERSION = "69c9be75953e";
 const APP_CACHE = 'hop-web-' + VERSION;
 const FONT_CACHE = 'hop-web-fonts-v1';
 const PRECACHE = [
   "./",
-  "./assets/dist-js-CDjNp--g.js",
-  "./assets/event-CFbwyvRi.js",
+  "./assets/dist-js-DIjCmR87.js",
+  "./assets/event-CwcSIaSH.js",
   "./assets/index--u_tGnB6.css",
-  "./assets/index-obBvmEL6.js",
+  "./assets/index-DSWhz4TU.js",
   "./assets/rhwp_bg-DB8FleS8.wasm",
-  "./assets/webviewWindow-CZKwYcFx.js",
+  "./assets/webviewWindow-Do_XQg1Q.js",
   "./favicon.ico",
   "./icons/apple-touch-icon.png",
   "./icons/hop-256.png",
